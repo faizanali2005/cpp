@@ -1,1 +1,2 @@
-# cpp
+# cpp-projects
+# university semester projects
